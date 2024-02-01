@@ -1,0 +1,395 @@
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v14/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v14/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v14/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v14/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v14/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKK58VXh.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v14/rP2Wp2ywxg089UriCZaSExd86J3t9jz86MvyyKy58Q.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu6-K6h9Q.woff2) format('woff2');
+  unicode-range: U+0100-02AF, U+0304, U+0308, U+0329, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/dmsans/v14/rP2Yp2ywxg089UriI5-g4vlH9VoD8Cmcqbu0-K4.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+
+/* GLOBAL CLASSES CSS */
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-header-bravo__top.brxe-section {
+  padding-top: calc(var(--space-xs) * 0.6);
+  padding-right: var(--section-padding-x);
+  padding-bottom: calc(var(--space-xs) * 0.6);
+  padding-left: var(--section-padding-x);
+  background-color: var(--white)
+}
+
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-header-bravo__top-links-wrapper.brxe-div {
+  display: flex;
+  flex-wrap: wrap;
+  margin-left: auto
+}
+
+/* BREAKPOINT: 手機橫式螢幕 */
+@media (max-width: 767px) {
+  .fr-header-bravo__top-links-wrapper.brxe-div {
+    margin-left: auto
+  }
+}
+
+/* BREAKPOINT: 手機垂直螢幕 */
+@media (max-width: 478px) {
+  .fr-header-bravo__top-links-wrapper.brxe-div {
+    margin-right: auto
+  }
+}
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-header-bravo.brxe-section {
+  background-color: var(--base);
+  padding-top: var(--space-s);
+  padding-right: var(--section-padding-x);
+  padding-bottom: var(--space-s);
+  padding-left: var(--section-padding-x)
+}
+
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-header-bravo__inner.brxe-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  row-gap: var(--content-gap);
+  column-gap: var(--content-gap)
+}
+
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-mobile-menu > li > a {
+  padding-right: var(--space-m);
+  padding-left: var(--space-m);
+  color: var(--fr-text-light)
+}
+
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-mobile-menu > li > .brx-submenu-toggle > * {
+  padding-right: var(--space-m);
+  padding-left: var(--space-m);
+  color: var(--fr-text-light)
+}
+
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-mobile-menu-toggle {
+  color: var(--fr-text-dark)
+}
+
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-nav-menu > li {
+  margin-left: 0
+}
+
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-nav-menu .current-menu-item > a {
+  color: var(--white)
+}
+
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-nav-menu .current-menu-item > .brx-submenu-toggle > * {
+  color: var(--white)
+}
+
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-nav-menu > .current-menu-parent > a {
+  color: var(--white);
+  background-color: var(--shade)
+}
+
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-nav-menu > .current-menu-parent > .brx-submenu-toggle > * {
+  color: var(--white)
+}
+
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-nav-menu > li > a {
+  padding-top: var(--space-s);
+  padding-right: var(--space-xs);
+  padding-bottom: var(--space-s);
+  padding-left: var(--space-xs);
+  font-weight: 600;
+  font-size: 1.1em
+}
+
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-nav-menu > li > .brx-submenu-toggle > * {
+  padding-top: var(--space-s);
+  padding-right: var(--space-xs);
+  padding-bottom: var(--space-s);
+  padding-left: var(--space-xs);
+  font-weight: 600;
+  font-size: 1.1em
+}
+
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-nav-menu > .current-menu-item > a {
+  background-color: var(--shade)
+}
+
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-nav-menu > .current-menu-item > .brx-submenu-toggle {
+  background-color: var(--shade)
+}
+
+.fr-brx-nav-alpha.brxe-nav-menu .bricks-nav-menu > .current-menu-parent > .brx-submenu-toggle {
+  background-color: var(--shade)
+}
+
+.fr-brx-nav-alpha {
+  --link-gap: var(--content-gap);
+}
+
+/* Set width when Mobile Toggle display */
+@media (min-width: 768px) {
+  .fr-brx-nav-alpha ul:not(.sub-menu) {
+    display: flex;
+    gap: var(--link-gap);
+  }
+}
+
+/* BREAKPOINT: 平板電腦垂直螢幕 */
+@media (max-width: 991px) {
+  .fr-brx-nav-alpha.brxe-nav-menu {
+    line-height: 0
+  }
+}
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-contact-section-bravo__info-wrapper.brxe-div {
+  padding-top: var(--fr-grid-gap);
+  padding-right: var(--fr-grid-gap);
+  padding-bottom: var(--fr-grid-gap);
+  padding-left: var(--fr-grid-gap);
+  display: flex;
+  /*flex-direction: column;*/
+  row-gap: var(--space-xs);
+  font-style: normal;
+  justify-content: center;
+  /*margin-left: var(--space-l)*/
+}
+
+/* BREAKPOINT: 手機橫式螢幕 */
+@media (max-width: 767px) {
+  .fr-contact-section-bravo__info-wrapper.brxe-div {
+    flex-direction: column;
+    font-style: normal;
+    padding-right: 0px;
+    padding-left: 0px
+  }
+}
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-contact-info-bravo.brxe-div {
+  font-style: normal;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  row-gap: em;
+  column-gap: var(--fr-card-gap)
+}
+
+/* BREAKPOINT: 手機垂直螢幕 */
+@media (max-width: 478px) {
+  .fr-contact-info-bravo.brxe-div {
+    row-gap: var(--space-m)
+  }
+}
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-contact-info-bravo__icon.brxe-icon {
+  background-color: var(--fr-bg-light);
+  font-size: var(--text-m);
+  border-radius: 50px;
+  width: var(--text-xxl);
+  align-self: flex-start
+}
+
+.fr-contact-info-bravo__icon {
+  aspect-ratio: 1;
+  display: flex;
+  justify-content: center;
+  align-items: center
+}
+
+/* BREAKPOINT: 手機垂直螢幕 */
+@media (max-width: 478px) {
+  .fr-contact-info-bravo__icon.brxe-icon {
+    min-width: 60px
+  }
+}
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-contact-info-bravo__content-wrapper.brxe-div {
+  display: flex;
+  flex-direction: column
+}
+
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-contact-info-bravo__heading.brxe-heading {
+  font-size: var(--text-l);
+  font-weight: 700;
+  margin-bottom: var(--space-xs)
+}
+
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-contact-info-bravo__details.brxe-text-basic {
+  text-decoration: none;
+  font-size: var(--text-m)
+}
+
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-contact-section-charlie__media-wrapper.brxe-div {
+  display: flex;
+  flex-direction: column;
+  width: 100%
+}
+
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-contact-section-charlie__map.brxe-map {
+  height: 40vh
+}
+
+.fr-contact-section-charlie__map .map {
+  height: 100%
+}
+
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-squeeze-footer-charlie.brxe-section {
+  background-color: var(--base);
+  padding-top: var(--section-space-s);
+  padding-bottom: var(--section-space-s)
+}
+
+
+/* BREAKPOINT: 桌機 (BASE) */
+.legal-meta-alpha.brxe-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  column-gap: var(--fr-content-gap);
+  row-gap: var(--fr-content-gap);
+  font-size: var(--text-s)
+}
+
+
+/* BREAKPOINT: 桌機 (BASE) */
+.fr-subfooter-bravo__link.brxe-text-basic {
+  color: var(--primary);
+  font-size: var(--text-s)
+}
+
+
+/* GLOBAL CSS */
+/*===============================*/
+/* article link text style */
+/*===============================*/
+
+.brxe-post-content a {
+  color: var(--secondary-medium);
+}
+
+.brxe-post-content a:hover {
+  color: var(--secondary-hover);
+}
