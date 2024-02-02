@@ -393,3 +393,11 @@
 .brxe-post-content a:hover {
   color: var(--secondary-hover);
 }
+
+.fr-article-card-alpha__title{
+    color: bisque;!important;
+}
+
+.fr-article-card-alpha__lede {
+  color: aliceblue;
+}
